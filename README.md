@@ -1,5 +1,6 @@
 # Hook useMemo & Styles Components
 
+Created data manually and using by input search.
 ## Available Scripts
 
 In the project directory, you can run:
